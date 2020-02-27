@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyApplication11</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">FirstName</string>
+    <string name="prompt_password">LastName</string>
+    <string name="action_sign_in">Next</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>#
+
+    <string-array name="names">
+
+        <item>English</item>
+        <item>French</item>
+        <item>Maths</item>
+        <item>Computer Science</item>
+        <item>Economics</item>
+        <item>Accounting</item>
+        <item>Business</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Business</item>
+        <item>General Paper</item>
+
+    </string-array>
+
+    <string-array name="passion">
+
+        <item>Music</item>
+        <item>Agriculture</item>
+        <item>Programming</item>
+        <item>Marketing</item>
+        <item>Graphic Design</item>
+
+    </string-array>
+</resources>
